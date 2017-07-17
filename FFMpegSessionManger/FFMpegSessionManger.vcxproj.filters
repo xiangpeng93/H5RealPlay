@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>源代码</Filter>
+    </ClCompile>
+    <ClCompile Include="FFMpegSessionManger.cpp">
+      <Filter>源代码</Filter>
+    </ClCompile>
+    <ClCompile Include="Session.cpp">
+      <Filter>源代码</Filter>
+    </ClCompile>
+    <ClCompile Include="SessionManger.cpp">
+      <Filter>源代码</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源代码</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FFMpegSessionManger.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Session.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SessionManger.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="源代码">
+      <UniqueIdentifier>{ff0375a3-de09-4b62-972e-bec88ccc4aad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{e5e2786f-f6e5-4585-9017-6fad3c918afb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FFmpegSession.def" />
+  </ItemGroup>
+</Project>

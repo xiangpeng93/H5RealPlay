@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "H5RealDataServer", "H5RealDataServer\H5RealDataServer.vcxproj", "{BB83C339-CB37-40A7-9D86-8B3F6204B8B1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FFMpegSessionManger", "FFMpegSessionManger\FFMpegSessionManger.vcxproj", "{52EAA7A3-5362-439B-9AFF-BE7791193633}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FFMpegSessionMangerTestPrj", "FFMpegSessionMangerTestPrj\FFMpegSessionMangerTestPrj.vcxproj", "{0D46AB6A-5D71-4AF2-8F1E-89D0A1A72394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB83C339-CB37-40A7-9D86-8B3F6204B8B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB83C339-CB37-40A7-9D86-8B3F6204B8B1}.Debug|Win32.Build.0 = Debug|Win32
+		{BB83C339-CB37-40A7-9D86-8B3F6204B8B1}.Release|Win32.ActiveCfg = Release|Win32
+		{BB83C339-CB37-40A7-9D86-8B3F6204B8B1}.Release|Win32.Build.0 = Release|Win32
+		{52EAA7A3-5362-439B-9AFF-BE7791193633}.Debug|Win32.ActiveCfg = Debug|Win32
+		{52EAA7A3-5362-439B-9AFF-BE7791193633}.Debug|Win32.Build.0 = Debug|Win32
+		{52EAA7A3-5362-439B-9AFF-BE7791193633}.Release|Win32.ActiveCfg = Release|Win32
+		{52EAA7A3-5362-439B-9AFF-BE7791193633}.Release|Win32.Build.0 = Release|Win32
+		{0D46AB6A-5D71-4AF2-8F1E-89D0A1A72394}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0D46AB6A-5D71-4AF2-8F1E-89D0A1A72394}.Debug|Win32.Build.0 = Debug|Win32
+		{0D46AB6A-5D71-4AF2-8F1E-89D0A1A72394}.Release|Win32.ActiveCfg = Release|Win32
+		{0D46AB6A-5D71-4AF2-8F1E-89D0A1A72394}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

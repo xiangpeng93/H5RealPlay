@@ -1,0 +1,11 @@
+LIBRARY FFMpegSessionManger
+
+EXPORTS
+init_dll @1
+fini_dll @2
+CreateSession @3
+DestorySession @4
+SetPackType @5
+SetCallback @6
+SetFileNameCallback @7
+SendData @8
